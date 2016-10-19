@@ -1,4 +1,5 @@
 "use strict";
+// this is beheave just like a pojo class
 var Hero = (function () {
     function Hero() {
     }
